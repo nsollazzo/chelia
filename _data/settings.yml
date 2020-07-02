@@ -15,8 +15,8 @@ menu:
 avatar: 05.jpg
 name: Sofia Porta
 my-job: Attrice & Doppiatrice
-description: I’m a product designer, illustrator & side-project enthusiast. I’m currently build great products at Pixel Media.
-email: chris@website.com
+description: Studentessa di Comunicazione, Media e Pubblicita'. Appassionata di doppiaggio, disegno e musica. 
+email: sofi.alexandra@libero.it
 
 #-------------------------------
 # Skills Section
@@ -87,7 +87,7 @@ projects:
 }
 - {
   name: Abstract Page, 
-  image: '11.jpg'
+  image: '11.jpg'quirky-heisenberg-e8911c
 }
 - {
   name: Round Shapes, 
