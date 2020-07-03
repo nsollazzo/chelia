@@ -1,13 +1,14 @@
+---
 #-------------------------------
 # General Site Settings
 
-title: Sofia Porta | My personal website 
+title: Sofia Porta | My personal website
 
 # Here you can add link in main menu
 menu:
-- {name: Work, url: 'work', icon: 'ion ion-ios-briefcase'}
-- {name: Blog, url: 'blog', icon: 'ion ion-ios-paper'}
-- {name: Contact, url: 'contact', icon: 'ion ion-ios-mail'}
+  - { name: Work, url: "work", icon: "ion ion-ios-briefcase" }
+  - { name: Blog, url: "blog", icon: "ion ion-ios-paper" }
+  - { name: Contact, url: "contact", icon: "ion ion-ios-mail" }
 
 #-------------------------------
 # About Section
@@ -15,7 +16,7 @@ menu:
 avatar: 05.jpg
 name: Sofia Porta
 my-job: Attrice & Doppiatrice
-description: Studentessa di Comunicazione, Media e Pubblicità. Appassionata di doppiaggio, disegno e musica. 
+description: Studentessa di Comunicazione, Media e Pubblicità. Appassionata di doppiaggio, disegno e musica.
 email: sofi.alexandra@libero.it
 
 #-------------------------------
@@ -23,46 +24,47 @@ email: sofi.alexandra@libero.it
 
 experience-title: Esperienze
 experience:
-- {
-    company-name: Compagnia Adhoc Retail s.r.l. (Milano), 
-    duration: Nel Marzo 2019, job-position: Attrice, 
-    description: Registrazione clip per Edu-Fiction.
-  }
+  - {
+      company-name: Compagnia Adhoc Retail s.r.l. (Milano),
+      duration: Nel Marzo 2019,
+      job-position: Attrice,
+      description: Registrazione clip per Edu-Fiction.,
+    }
 
-- {
-    company-name: Daniele Bellocchio, 
-    duration: Nel Giugno 2018, 
-    job-position: Doppiatrice, 
-    description: Doppiaggio reportage giornalistico.
-  }
+  - {
+      company-name: Daniele Bellocchio,
+      duration: Nel Giugno 2018,
+      job-position: Doppiatrice,
+      description: Doppiaggio reportage giornalistico.,
+    }
 
-- {
-    company-name: Robert Dyas - Winchester (UK),
-    duration: Nel Febbraio 2017,
-    job-position: Stage,
-    description: Svolgimenoto di diverse mansioni lavorative.
-  }
+  - {
+      company-name: Robert Dyas - Winchester (UK),
+      duration: Nel Febbraio 2017,
+      job-position: Stage,
+      description: Svolgimenoto di diverse mansioni lavorative.,
+    }
 
-- {
-    company-name: Fondo Ambiente Italiano,
-    duration: Febbraio - Marzo 2017,
-    job-position: Guida, 
-    description: Lavoro di esposizione al castello di Lardirago durante la Giornata FAI di Primavera.
-  }
+  - {
+      company-name: Fondo Ambiente Italiano,
+      duration: Febbraio - Marzo 2017,
+      job-position: Guida,
+      description: Lavoro di esposizione al castello di Lardirago durante la Giornata FAI di Primavera.,
+    }
 
-- {
-    company-name: Fondo Ambiente Italiano, 
-    duration: Ottobre - Novembre 2016, 
-    job-position: Guida, 
-    description: Lavoro di esposizione al Municipio di Pavia.
-  }
+  - {
+      company-name: Fondo Ambiente Italiano,
+      duration: Ottobre - Novembre 2016,
+      job-position: Guida,
+      description: Lavoro di esposizione al Municipio di Pavia.,
+    }
 
-- {
-    company-name: Università di Pavia,
-    duration: Giugno - Luglio 2016,
-    job-position: Stage,
-    description: Lavoro di catalogazione dei reperti archeologici presso la Biblioteca d'Arte.
-  }
+  - {
+      company-name: Università di Pavia,
+      duration: Giugno - Luglio 2016,
+      job-position: Stage,
+      description: Lavoro di catalogazione dei reperti archeologici presso la Biblioteca d'Arte.,
+    }
 
 # - {
 #     company-name: ,
@@ -76,54 +78,54 @@ experience:
 
 education-title: Educazione
 education:
-- {
-    degree: Laurea Triennale,
-    years: 2018 - 2021,
-    organization: International University of Languages and Media (IULM) - Milano,
-    description: Comuicazione Media e Pubblicità.
-  }
+  - {
+      degree: Laurea Triennale,
+      years: 2018 - 2021,
+      organization: International University of Languages and Media (IULM) - Milano,
+      description: Comuicazione Media e Pubblicità.,
+    }
 
-- {
-    degree: Diploma,
-    years: 2013 - 2018,
-    organization: Istituto Magistrale Adelaide Cairoli (Pavia),
-    description: Maturità Linguistica.
-  }
+  - {
+      degree: Diploma,
+      years: 2013 - 2018,
+      organization: Istituto Magistrale Adelaide Cairoli (Pavia),
+      description: Maturità Linguistica.,
+    }
 
-- {
-    degree: Workshop Doppiaggio,
-    years: Nel Febbraio 2020,
-    organization: Quality Dubbing (Milano),
-    description: Lezione di doppiaggio con Giorgio Borghetti.
-  }
+  - {
+      degree: Workshop Doppiaggio,
+      years: Nel Febbraio 2020,
+      organization: Quality Dubbing (Milano),
+      description: Lezione di doppiaggio con Giorgio Borghetti.,
+    }
 
-- {
-    degree: Corso di Recitazione,
-    years: Febbraio 2019 - Aprile 2020 / Novembre 2019 - Gennaio 2020,
-    organization: Quality Dubbing (Milano),
-    description: Lezioni di recitazione con Gabriele Calindri.
-  }
+  - {
+      degree: Corso di Recitazione,
+      years: Febbraio 2019 - Aprile 2020 / Novembre 2019 - Gennaio 2020,
+      organization: Quality Dubbing (Milano),
+      description: Lezioni di recitazione con Gabriele Calindri.,
+    }
 
-- {
-    degree: Corso Avanzato di Doppiaggio,
-    years: Ottobre - Novembre 2019,
-    organization: Quality Dubbing (Milano),
-    description: Lezione di doppiaggio con diversi professionisti del settore.
-  }
+  - {
+      degree: Corso Avanzato di Doppiaggio,
+      years: Ottobre - Novembre 2019,
+      organization: Quality Dubbing (Milano),
+      description: Lezione di doppiaggio con diversi professionisti del settore.,
+    }
 
-- {
-    degree: Corso Propedeutico di Recitazione,
-    years: Nel Luglio 2017,
-    organization: Civica Scuola di Teatro Paolo Grassi (Milano),
-    description: "Lezioni di movimento, recitazione e voce."
-  }
+  - {
+      degree: Corso Propedeutico di Recitazione,
+      years: Nel Luglio 2017,
+      organization: Civica Scuola di Teatro Paolo Grassi (Milano),
+      description: "Lezioni di movimento, recitazione e voce.",
+    }
 
-- {
-    degree: "Corso Dizione, Doppiaggio e Recitazione",
-    years: 2015 - 2018,
-    organization: Inventario (Pavia),
-    description: "Lezioni di dizione (base e avanzata), doppiaggio (base e avanzato) e Recitazione (base e intermedio) con Stefania Rusconi e Gianluca Iacono".
-  }
+  - {
+      degree: "Corso Dizione, Doppiaggio e Recitazione",
+      years: 2015 - 2018,
+      organization: Inventario (Pavia),
+      description: "Lezioni di dizione (base e avanzata), doppiaggio (base e avanzato) e Recitazione (base e intermedio) con Stefania Rusconi e Gianluca Iacono.",
+    }
 
 # - {
 #   degree: ,
@@ -136,47 +138,28 @@ education:
 # Work Section
 
 projects:
-- {
-  name: Design Talks, 
-  image: '10.jpg'
-}
-- {
-  name: Abstract Page, 
-  image: '11.jpg'
-}
-- {
-  name: Round Shapes, 
-  image: '12.jpg'
-}
-- {
-  name: Color Palette,
-  image: '13.jpg'
-}
-- {
-  name: Color Palette,
-  image: '14.jpg'
-}
-- {
-  name: Color Palette,
-  image: '15.jpg'
-}
+  - { name: Design Talks, image: "10.jpg" }
+  - { name: Abstract Page, image: "11.jpg" }
+  - { name: Round Shapes, image: "12.jpg" }
+  - { name: Color Palette, image: "13.jpg" }
+  - { name: Color Palette, image: "14.jpg" }
+  - { name: Color Palette, image: "15.jpg" }
 
 #-------------------------------
 # Social Settings
 
 social:
-- {link: "https://facebook.com", icon: ion-logo-facebook }
-- {link: "https://twitter.com", icon: ion-logo-twitter }
-- {link: "https://dribbble.com", icon: ion-logo-dribbble }
-- {link: "https://linkedin.com", icon: ion-logo-linkedin }
-- {link: "https://github.com", icon: ion-logo-github }
+  - { link: "https://facebook.com", icon: ion-logo-facebook }
+  - { link: "https://twitter.com", icon: ion-logo-twitter }
+  - { link: "https://dribbble.com", icon: ion-logo-dribbble }
+  - { link: "https://linkedin.com", icon: ion-logo-linkedin }
+  - { link: "https://github.com", icon: ion-logo-github }
 
 # social network icons available (https://ionicons.com/): 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' /
 
 #-------------------------------
 # Comment Section (Disqus)
 disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
-
 
 #-------------------------------
 # Google Analytics Section
