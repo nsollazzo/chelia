@@ -21,25 +21,144 @@ email: sofi.alexandra@libero.it
 #-------------------------------
 # Experience Section
 
-experience-title: Experience
+experience-title: Esperienze
 experience:
-- {company-name: Industry Design & Media, duration: 2015 - 2018, job-position: Graphic and Web Designer in San Francisco, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {
+    company-name: Compagnia Adhoc Retail s.r.l. (Milano), 
+    duration: Nel Marzo 2019, job-position: Attrice, 
+    description: Registrazione clip per Edu-Fiction.
+  }
 
-- {company-name: Graphic Design, duration: 2011 - 2015, job-position: Senior Illustrator in Milan, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {
+    company-name: Daniele Bellocchio, 
+    duration: Nel Giugno 2018, 
+    job-position: Doppiatrice, 
+    description: Doppiaggio reportage giornalistico.
+  }
 
-- {company-name: Pixel Media, duration: 2008 - 2011, job-position: Designer in Chicago, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {
+    company-name: Robert Dyas - Winchester (UK),
+    duration: Nel Febbraio 2017,
+    job-position: Stage,
+    description: Svolgimenoto di diverse mansioni lavorative.
+  }
+
+- {
+    company-name: Fondo Ambiente Italiano,
+    duration: Febbraio - Marzo 2017,
+    job-position: Guida, 
+    description: Lavoro di esposizione al castello di Lardirago durante la Giornata FAI di Primavera.
+  }
+
+- {
+    company-name: Fondo Ambiente Italiano, 
+    duration: Ottobre - Novembre 2016, 
+    job-position: Guida, 
+    description: Lavoro di esposizione al Municipio di Pavia.
+  }
+
+- {
+    company-name: Università di Pavia,
+    duration: Giugno - Luglio 2016,
+    job-position: Stage,
+    description: Lavoro di catalogazione dei reperti archeologici presso la Biblioteca d'Arte.
+  }
+
+# - {
+#     company-name: ,
+#     duration: ,
+#     job-position: ,
+#     description: .
+#   }
 
 #-------------------------------
 # Education Section
 
-education-title: Education
+education-title: Educazione
 education:
-- {degree: Master Degree, years: 2002 - 2006, organization: University of Creative Minds, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {
+    degree: Laurea Triennale,
+    years: 2018 - 2021,
+    organization: International University of Languages and Media (IULM) - Milano,
+    description: Comuicazione Media e Pubblicità.
+  }
 
-- {degree: Bachelores Degree, years: 1998 - 2002, organization: University of Creative Minds, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {
+    degree: Diploma,
+    years: 2013 - 2018,
+    organization: Istituto Magistrale Adelaide Cairoli (Pavia),
+    description: Maturità Linguistica.
+  }
 
-- {degree: Specialised Coursework, years: 1997 - 1998, organization: University of Boston, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {
+    degree: Workshop Doppiaggio,
+    years: Nel Febbraio 2020,
+    organization: Quality Dubbing (Milano),
+    description: Lezione di doppiaggio con Giorgio Borghetti.
+  }
 
+- {
+    degree: Corso di Recitazione,
+    years: Novembre 2019 - Gennaio 2020,
+    organization: Quality Dubbing (Milano),
+    description: Lezioni di recitazione con Gabriele Calindri.
+  }
+
+- {
+    degree: Corso Avanzato di Doppiaggio,
+    years: Ottobre - Novembre 2019,
+    organization: Quality Dubbing (Milano),
+    description: Lezione di doppiaggio con diversi professionisti del settore.
+  }
+
+- {
+    degree: Corso di Recitazione,
+    years: Febbraio 2019 - Aprile 2020,
+    organization: Quality Dubbing (Milano),
+    description: Lezioni di recitazione con Gabriele Calindri.
+  }
+
+- {
+    degree: Corso Intermedio di Recitazione,
+    years: Ottobre 2017 - Maggio 2018,
+    organization: Inventario (Pavia),
+    description: Lezioni di recitazione con Gianluca Iacono e Stefania Rusconi.
+  }
+
+- {
+    degree: Corso Propedeutico di Recitazione,
+    years: Nel Luglio 2017,
+    organization: Civica Scuola di Teatro Paolo Grassi (Milano),
+    description: "Lezioni di movimento, recitazione e voce."
+  }
+
+- {
+  degree: Corso Base di Recitazione,
+  years: Ottobre 2016 - Maggio 2017,
+  organization: Invetario (Pavia),
+  description: Lezioni di Recitazione con Stefania Rusconi e Gianluca Iacono.
+  }
+
+- {
+  degree: Corso di Dizione Base e Avanzata,
+  years: Ottobre - Dicembre 2015,
+  organization: Invetario (Pavia),
+  description: Lezioni sulla dizione italiana e sull'uso della voce con Stefania Rusconi.
+  }
+
+- {
+  degree: Corso Base di Doppiaggio,
+  years: Maggio - Giugno 2015,
+  organization: Downtown (Pavia),
+  description: Lezioni di doppiaggio con Gianluca Iacono.
+  }
+
+# - {
+#   degree: ,
+#   years: ,
+#   organization: ,
+#   description: .
+#   }
 #-------------------------------
 # Clients Section
 clients-title: Clienst
