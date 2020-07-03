@@ -119,10 +119,10 @@ education:
   }
 
 - {
-  degree: "Corso Dizione, Doppiaggio e Recitazione",
-  years: 2015 - 2018,
-  organization: Inventario (Pavia),
-  description: "Lezioni di dizione (base e avanzata), doppiaggio (base e avanzato) e Recitazione (base e intermedio) con Stefania Rusconi e Gianluca Iacono".
+    degree: "Corso Dizione, Doppiaggio e Recitazione",
+    years: 2015 - 2018,
+    organization: Inventario (Pavia),
+    description: "Lezioni di dizione (base e avanzata), doppiaggio (base e avanzato) e Recitazione (base e intermedio) con Stefania Rusconi e Gianluca Iacono".
   }
 
 # - {
