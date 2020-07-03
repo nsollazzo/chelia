@@ -5,21 +5,15 @@ image: 02.jpg
 permalink: /work/
 ---
 <!-- begin works -->
-<div class="works">
-  <div class="work-box">
-    {% for project in site.data.settings.projects %}
-    <div class="work-item">
-      <div class="work-image-container">
-        <a class="work-popup-link" href="{{ site.baseurl }}/images/work/{{ project.image }}">
-          <div class="work-image" {% if project.image %} style="background-image: url({{"/images/work/" | prepend: site.baseurl | append :
-        project.image}})" {% else %} style="background-image: url(https://via.placeholder.com/1280x720)" {% endif %} title="{{project.name}} by {{ site.data.settings.name }}"></div>
-        </a>
-      </div>
-      <div  class="work-overlay">
-        <strong>{{ project.name }}</strong>
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-</div>
+<!-- Place <div> tag where you want the feed to appear -->
+<div id="curator-feed-default-feed-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag"></div>
+<!-- The Javascript can be moved to the end of the html page before the </body> tag -->
+<script type="text/javascript">
+  /* curator-feed-default-feed-layout */
+  (function () {
+    var i, e, d = document, s = "script"; i = d.createElement("script"); i.async = 1;
+    i.src = "https://cdn.curator.io/published/75feb487-f7b5-4aab-b2a8-f5cff50fb19d.js";
+    e = d.getElementsByTagName(s)[0]; e.parentNode.insertBefore(i, e);
+  })();
+</script>
 <!-- end works -->
