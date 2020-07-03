@@ -20,24 +20,6 @@ image: headline.png
 
 <hr>
 
-<!-- begin skills -->
-<div class="skills">
-  <h2 class="skill-title section-title"><i class="ion ion-ios-desktop"></i> {{ site.data.settings.skills-title }}</h2>
-  <div class="chart-box">
-  {% for skill in site.data.settings.skills %}
-    {% for i in (1..1) %}
-    <div class="chart-item">
-      <div class="chart" data-percent="{{ skill.value }}"><span class="percent">{{ skill.value }}</span>%</div>
-      <span class="chart-title">{{ skill.name }}</span>
-    </div>
-    {% endfor %}
-  {% endfor %}
-  </div>
-</div>
-<!-- end skills -->
-
-<hr>
-
 <!-- begin experience -->
 <div class="experience">
   <h2 class="experience-title section-title"><i class="ion ion-ios-briefcase"></i> {{ site.data.settings.experience-title }}</h2>
