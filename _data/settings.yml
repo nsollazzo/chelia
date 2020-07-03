@@ -135,25 +135,15 @@ education:
 #   }
 
 #-------------------------------
-# Work Section
-
-projects:
-  - { name: Design Talks, image: "10.jpg" }
-  - { name: Abstract Page, image: "11.jpg" }
-  - { name: Round Shapes, image: "12.jpg" }
-  - { name: Color Palette, image: "13.jpg" }
-  - { name: Color Palette, image: "14.jpg" }
-  - { name: Color Palette, image: "15.jpg" }
-
-#-------------------------------
 # Social Settings
 
 social:
+  - { link: "", icon: ion-logo-instagram}
   - { link: "https://facebook.com", icon: ion-logo-facebook }
   - { link: "https://twitter.com", icon: ion-logo-twitter }
-  - { link: "https://dribbble.com", icon: ion-logo-dribbble }
-  - { link: "https://linkedin.com", icon: ion-logo-linkedin }
-  - { link: "https://github.com", icon: ion-logo-github }
+  - { link: "https://www.linkedin.com/in/sofia-porta-7688421a5/", icon: ion-logo-linkedin }
+  - { link: "https://www.youtube.com/channel/UCzpokeBP4wDHEF4BSojShHg", icon: ion-logo-youtube}
+  # - { link: "", icon: }
 
 # social network icons available (https://ionicons.com/): 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' /
 
