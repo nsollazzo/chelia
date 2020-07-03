@@ -99,7 +99,7 @@ education:
 
 - {
     degree: Corso di Recitazione,
-    years: Novembre 2019 - Gennaio 2020,
+    years: Febbraio 2019 - Aprile 2020 / Novembre 2019 - Gennaio 2020,
     organization: Quality Dubbing (Milano),
     description: Lezioni di recitazione con Gabriele Calindri.
   }
@@ -112,20 +112,6 @@ education:
   }
 
 - {
-    degree: Corso di Recitazione,
-    years: Febbraio 2019 - Aprile 2020,
-    organization: Quality Dubbing (Milano),
-    description: Lezioni di recitazione con Gabriele Calindri.
-  }
-
-- {
-    degree: Corso Intermedio di Recitazione,
-    years: Ottobre 2017 - Maggio 2018,
-    organization: Inventario (Pavia),
-    description: Lezioni di recitazione con Gianluca Iacono e Stefania Rusconi.
-  }
-
-- {
     degree: Corso Propedeutico di Recitazione,
     years: Nel Luglio 2017,
     organization: Civica Scuola di Teatro Paolo Grassi (Milano),
@@ -133,24 +119,10 @@ education:
   }
 
 - {
-  degree: Corso Base di Recitazione,
-  years: Ottobre 2016 - Maggio 2017,
-  organization: Invetario (Pavia),
-  description: Lezioni di Recitazione con Stefania Rusconi e Gianluca Iacono.
-  }
-
-- {
-  degree: Corso di Dizione Base e Avanzata,
-  years: Ottobre - Dicembre 2015,
-  organization: Invetario (Pavia),
-  description: Lezioni sulla dizione italiana e sull'uso della voce con Stefania Rusconi.
-  }
-
-- {
-  degree: Corso Base di Doppiaggio,
-  years: Maggio - Giugno 2015,
-  organization: Downtown (Pavia),
-  description: Lezioni di doppiaggio con Gianluca Iacono.
+  degree: "Corso Dizione, Doppiaggio e Recitazione",
+  years: 2015 - 2018,
+  organization: Inventario (Pavia),
+  description: "Lezioni di dizione (base e avanzata), doppiaggio (base e avanzato) e Recitazione (base e intermedio) con Stefania Rusconi e Gianluca Iacono".
   }
 
 # - {
@@ -159,30 +131,6 @@ education:
 #   organization: ,
 #   description: .
 #   }
-#-------------------------------
-# Clients Section
-clients-title: Clienst
-clients:
-- {
-  name: "Dianna Smiley",
-  title: "Social Media, Co and Co",
-  quote: "<p><strong>Working with Chris was the highlight of my career.</strong> Art party before they sold out lo-fi cronut. Narwhal normcore kinfolk crucifix cronut coloring book man braid lomo fixie sartorial helvetica cornhole activated charcoal ethical.</p>"
-}
-- {
-  name: "Loki Bright",
-  title: "Director of Design, New Devi Art",
-  quote: "<p><strong>While we all felt that Chris was a great.</strong> Woke lumbersexual iceland truffaut blog, deep v poke ramps vexillologist heirloom flexitarian taxidermy lomo seitan gastropub. Bespoke vape next level meditation tattooed cred.</p>"
-}
-- {
-  name: "Korbyn Colon",
-  title: "Art Director, LTD Corporate",
-  quote: "<p><strong>Chillwave ethical enamel pin, fashion axe leggings.</strong> Bespoke franzen umami sustainable. Chambray keffiyeh cred sriracha. Hashtag street art humblebrag pok pok viral meggings tacos chambray narwhal gentrify woke etsy.</p>"
-}
-- {
-  name: "Gracelyn Mason",
-  title: "Journalist, The Best Newspaper",
-  quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
-}
 
 #-------------------------------
 # Work Section
