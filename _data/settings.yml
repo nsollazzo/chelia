@@ -19,18 +19,6 @@ description: Studentessa di Comunicazione, Media e Pubblicita'. Appassionata di 
 email: sofi.alexandra@libero.it
 
 #-------------------------------
-# Skills Section
-
-skills-title: Professional Skills
-skills:
-- {name: Communication, value: '90'}
-- {name: Learning, value: '95'} 
-- {name: Planning, value: '60'}
-- {name: Visual Design, value: '80'}
-- {name: UX Design, value: '85'}
-- {name: Programming, value: '70'}
-
-#-------------------------------
 # Experience Section
 
 experience-title: Experience
