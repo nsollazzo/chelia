@@ -138,7 +138,7 @@ education:
 # Social Settings
 
 social:
-  - { link: "", icon: ion-logo-instagram}
+  - { link: "https://instagram.com", icon: ion-logo-instagram}
   - { link: "https://facebook.com", icon: ion-logo-facebook }
   - { link: "https://twitter.com", icon: ion-logo-twitter }
   - { link: "https://www.linkedin.com/in/sofia-porta-7688421a5/", icon: ion-logo-linkedin }
