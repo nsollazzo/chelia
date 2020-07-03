@@ -28,7 +28,7 @@ image: headline.png
       {% for i in (1..1) %}
       <li class="experience-item">
         <h3 class="company-name">{{ experience.company-name }} / <span class="duration">{{ experience.duration }}</span></h3>
-        <h5 class="job-position">{{ experience.job-position }}:</h5>
+        <h5 class="job-position">{{ experience.job-position }}</h5>
         <div class="experience-description">{{ experience.description }}</div>
       </li>
       {% endfor %}
@@ -48,7 +48,7 @@ image: headline.png
         {% for i in (1..1) %}
         <li class="education-item">
           <h3 class="degree">{{ education.degree }} / <span class="years">{{ education.years }}</span></h3>
-          <h5 class="organization">{{ education.organization }}:</h5>
+          <h5 class="organization">{{ education.organization }}</h5>
           <div class="education-description">{{ education.description }}</div>
         </li>
         {% endfor %}
@@ -59,24 +59,20 @@ image: headline.png
 
 <hr>
 
-<!-- begin clients -->
-<div class="clients">
-  <h2 class="clients-title section-title"><i class="ion ion-ios-person"></i> {{ site.data.settings.clients-title
-  }}</h2>
-  <div class="clients-box">
-    <ul class="clients-list siema slick list-reset">
-      {% for clients in site.data.settings.clients %}
+<!-- begin certification -->
+<!-- <div class="certification">
+  <h2 class="certification-title section-title"><i class="ion ion-ios-school"></i> {{ site.data.settings.certification-title
+    }}</h2>
+    <ul class="certification list-reset">
+      {% for certification in site.data.settings.certification %}
         {% for i in (1..1) %}
-        <li class="clients-item">
-          <div class="client-quote"><i class="ion ion-md-quote"></i> {{ clients.quote }}</div>
-          <div class="client-info">
-            <strong class="client-name">{{ clients.name }}</strong>
-            <em class="client-title">{{ clients.title }}</em>
-          </div>
+        <li class="certification-item">
+          <h3 class="degree">{{ certification.degree }} / <span class="years">{{ certification.years }}</span></h3>
+          <h5 class="organization">{{ certification.organization }}</h5>
+          <div class="certification-description">{{ certification.description }}</div>
         </li>
         {% endfor %}
       {% endfor %}
     </ul>
-  </div>
-</div>
-<!-- end clients -->
+</div> -->
+<!-- end certification -->
